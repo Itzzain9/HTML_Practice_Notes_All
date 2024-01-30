@@ -6,5 +6,9 @@ Presenation Tags <br>
 HTML-Colors <br>
 Grouping Elements in Html<br>
 HTML-Font,Face,Color<br>
-Marquee
+Marquee<br>
+Links<br>
+Images<br>
+Meta Tags<br>
+Lists<br>
 
