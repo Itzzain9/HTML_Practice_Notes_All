@@ -11,4 +11,9 @@ Links<br>
 Images<br>
 Meta Tags<br>
 Lists<br>
-
+Table<br>
+Caption<br>
+Forms<br>
+Check Box<br>
+RadioBox<br>
+File Select<br>
